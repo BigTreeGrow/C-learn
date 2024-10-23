@@ -1,0 +1,6 @@
+E:\ZS_USE\第01章 ModbusRTU通信协议\【7】Modbus通信库——串口打开及关闭\modbu_srtart\modbusStart\modbusrtu\bin\Debug\modbusrtu.dll
+E:\ZS_USE\第01章 ModbusRTU通信协议\【7】Modbus通信库——串口打开及关闭\modbu_srtart\modbusStart\modbusrtu\bin\Debug\modbusrtu.pdb
+E:\ZS_USE\第01章 ModbusRTU通信协议\【7】Modbus通信库——串口打开及关闭\modbu_srtart\modbusStart\modbusrtu\obj\Debug\modbusrtu.csproj.AssemblyReference.cache
+E:\ZS_USE\第01章 ModbusRTU通信协议\【7】Modbus通信库——串口打开及关闭\modbu_srtart\modbusStart\modbusrtu\obj\Debug\modbusrtu.csproj.CoreCompileInputs.cache
+E:\ZS_USE\第01章 ModbusRTU通信协议\【7】Modbus通信库——串口打开及关闭\modbu_srtart\modbusStart\modbusrtu\obj\Debug\modbusrtu.dll
+E:\ZS_USE\第01章 ModbusRTU通信协议\【7】Modbus通信库——串口打开及关闭\modbu_srtart\modbusStart\modbusrtu\obj\Debug\modbusrtu.pdb

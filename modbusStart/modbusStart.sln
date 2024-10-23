@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modbusStart", "modbusStart\modbusStart.csproj", "{A57F1CC6-22D0-4EB5-9574-DC4E0C8D11B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modbusrtu", "modbusrtu\modbusrtu.csproj", "{7DF78D84-C7F3-492F-A281-A63D7E35AD11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57F1CC6-22D0-4EB5-9574-DC4E0C8D11B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57F1CC6-22D0-4EB5-9574-DC4E0C8D11B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57F1CC6-22D0-4EB5-9574-DC4E0C8D11B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57F1CC6-22D0-4EB5-9574-DC4E0C8D11B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF78D84-C7F3-492F-A281-A63D7E35AD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF78D84-C7F3-492F-A281-A63D7E35AD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF78D84-C7F3-492F-A281-A63D7E35AD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF78D84-C7F3-492F-A281-A63D7E35AD11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CA38673-8769-4AF7-B003-1BF41BFC91AD}
+	EndGlobalSection
+EndGlobal
